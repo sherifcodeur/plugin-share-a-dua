@@ -1,4 +1,4 @@
-// Fonction de partage
+
 function sharePreviousLetexto(button) {
   console.log('✅ Clic détecté sur le bouton de partage.');
 
